@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on Ai Agents<br>👯 I’m looking to collaborate on Ai Research<br>🌱 I’m currently learning to build in public 
+🔭 I’m currently working on Ai Agents<br>👯 I’m looking to collaborate on Cutting Edge Technology <br>🌱 I’m currently learning building in public 
 
 
 ## 🌐 Socials:
