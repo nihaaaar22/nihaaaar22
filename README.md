@@ -3,6 +3,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Ai Agents<br>👯 I’m looking to collaborate cool practical tech applications <br>🌱 I’m building in public 
 
+[![An image of @nihaaaar22's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nihaaaar22)](https://holopin.io/@nihaaaar22)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/niharshettigar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/niharshettigar) 
